@@ -10,5 +10,5 @@ Projects that involve the implementation of Data Science techniques and methodol
 | MITx IDS.S24x | SVD Learning Time Series | The goal is to assess missed and non-seen time series values via SVD-decomposing techniques of imputation and forecasting. | SVD, LSE |
 | BSU MM | Random Variables Modeling | The goal is to simulate random variables of different distributions. | Plotting, Chi2-test, KS-test |
 | MITx IDS.S24x | Multiple Time Series Learning | The goal is to assess missed time series values via different methods of multiple time series learning. | SVD, Plotting, Multi-SSA, Tensor Est., Matrix Est. |
-| Research | Fashion Neural Network | The goal is to predict an item based on its 28x28 image interpretation. | ML, Feedforward NN, Plotting |
-| Research | Sentiment Analysis Neural Network | The goal is to predict whether the sentence is negative or positive. | ML, Recurrent NN |
+| Research | Fashion Neural Network | The goal is to predict an item based on its 28x28 image interpretation. | ML, FNN, Plotting |
+| Research | Sentiment Analysis Neural Network | The goal is to predict whether the sentence is negative or positive. | ML, RNN |
