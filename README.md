@@ -12,3 +12,4 @@ Projects that involve the implementation of Data Science techniques and methodol
 | MITx IDS.S24x | Multiple Time Series Learning | The goal is to assess missed time series values via different methods of multiple time series learning. | SVD, Plotting, Multi-SSA, Tensor Est., Matrix Est. |
 | Research | Fashion Neural Network | The goal is to predict an item based on its 28x28 image interpretation. | ML, FNN, Plotting |
 | Research | Sentiment Analysis Neural Network | The goal is to predict whether the sentence is negative or positive. | ML, RNN |
+| MITx 6.419x | Molecular Cancer Classification | The goal is to discover how many genes can be used to differentiate the tumor types (meaning that their expression level differs between the two tumor types) | HBC, BHC |
