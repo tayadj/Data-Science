@@ -14,3 +14,4 @@ Projects that involve the implementation of Data Science techniques and methodol
 | Research | Sentiment Analysis Neural Network | The goal is to predict whether the sentence is negative or positive. | ML, RNN |
 | MITx 6.419x | Molecular Cancer Classification | The goal is to discover how many genes can be used to differentiate the tumor types (meaning that their expression level differs between the two tumor types) | HBC, BHC |
 | MITx 6.86x | Review Sentiment Analysis | The goal of this project is to design a classifier to use for sentiment analysis of product reviews. | Linear Classifier, ML |
+| Research | Trivial Face Detection | The goal is to detect faces on a variety of images using computer vision algorithms. | CV |
