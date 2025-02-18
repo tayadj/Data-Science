@@ -15,3 +15,4 @@ Projects that involve the implementation of Data Science techniques and methodol
 | MITx 6.419x | Molecular Cancer Classification | The goal is to discover how many genes can be used to differentiate the tumor types (meaning that their expression level differs between the two tumor types) | HBC, BHC |
 | MITx 6.86x | Review Sentiment Analysis | The goal of this project is to design a classifier to use for sentiment analysis of product reviews. | Linear Classifier, ML |
 | Research | Trivial Face Detection | The goal is to detect faces on a variety of images using computer vision algorithms. | CV |
+| MITx 6.86x | Tumor Diagnosis Classification | The goal is to classify whether according to the data patient deals with tumor or not | Linear Classifier, ML, Plotting |
