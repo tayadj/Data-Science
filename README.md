@@ -16,3 +16,4 @@ Projects that involve the implementation of Data Science techniques and methodol
 | MITx 6.86x | Review Sentiment Analysis | The goal of this project is to design a classifier to use for sentiment analysis of product reviews. | Linear Classifier, ML |
 | Research | Trivial Face Detection | The goal is to detect faces on a variety of images using computer vision algorithms. | CV |
 | MITx 6.86x | Tumor Diagnosis Classification | The goal is to classify whether according to the data patient deals with tumor or not | Linear Classifier, ML, Plotting |
+| MITx 6.419x | RNA Sequence Analysis | The goal is to unveil hierarchical structure and discovering important genes. | PCA, MDS, T-SNE, HP-Tuning, Plotting |
